@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T08:42:23 IST" name="Default suite" finished-at="2023-06-30T08:44:47 IST" duration-ms="143027">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T08:42:23 IST" name="Default test" finished-at="2023-06-30T08:44:47 IST" duration-ms="143027">
+      <class name="ATTestLayer.HomeTestPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:42:24 IST" name="setup" finished-at="2023-06-30T08:43:53 IST" duration-ms="89629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ToVerifySlider()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:43:53 IST" name="ToVerifySlider" finished-at="2023-06-30T08:44:07 IST" duration-ms="13566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifySlider -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:44:07 IST" name="teardown" finished-at="2023-06-30T08:44:08 IST" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:44:08 IST" name="setup" finished-at="2023-06-30T08:44:37 IST" duration-ms="28669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ToverifyNewArrivals()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:44:37 IST" name="ToverifyNewArrivals" finished-at="2023-06-30T08:44:46 IST" duration-ms="8891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToverifyNewArrivals -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ATTestLayer.HomeTestPage@6aba2b86]" started-at="2023-06-30T08:44:46 IST" name="teardown" finished-at="2023-06-30T08:44:47 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ATTestLayer.HomeTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
